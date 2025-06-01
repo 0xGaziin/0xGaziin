@@ -3,4 +3,4 @@
 - JavaScript/TypeScript — Since 2016.
 - FullStack Developer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![0xGaziin's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xGaziin)](https://github.com/0xGaziin/github-readme-stats)
