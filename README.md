@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm 0xGaziin</h1>
-<h3 align="center">I am a developer passionate about what happens "under the hood" as well as modern web development. Currently, I bridge the gap between high-level JavaScript applications and low-level x86-64 Assembly instructions.</h3>
+<h6 align="center">I am a developer passionate about what happens "under the hood" as well as modern web development. Currently, I bridge the gap between high-level JavaScript applications and low-level x86-64 Assembly instructions.</h3>
 
 - 🔭 I’m currently working on [WikiAluno](https://github.com/0xGaziin/wikialuno)
 
