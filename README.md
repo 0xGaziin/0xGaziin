@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WikiAluno](https://github.com/0xGaziin/wikialuno)
 
-### 🧰 Tech Stack (most important):
+### 🧰 Tech Stack:
 
 **Low-Level:**
 ![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=gnubash&logoColor=white)
